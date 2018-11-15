@@ -17,4 +17,4 @@ window.setTimeout(function() {
         input = prompt("What would you like to do?")
     }
     console.log("Okay, you quit the app.")
-  }, 500);
+}, 500);
